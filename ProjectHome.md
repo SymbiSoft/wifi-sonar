@@ -1,0 +1,1 @@
+wifi-sonar will beep faster the closer you are to a selected access point.
